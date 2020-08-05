@@ -26,3 +26,8 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Assumptions
+
+Postman will be used for APi tests.
+Download postman collection from http://
